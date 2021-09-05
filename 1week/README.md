@@ -29,18 +29,18 @@
     		<td>피보나치 함수</td>
     		<td><a href="https://www.acmicpc.net/problem/1003">Link</a></td>
             <td><a href="KJY97/BOJ_1003.java">✔️</a></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td><a href=""> </a></td>
+            <td><a href=""> </a></td>
+            <td><a href=""> </a></td>
     	</tr>
     	<tr>
     		<td>1012</td>
     		<td>유기농 배추</td>
     		<td><a href="https://www.acmicpc.net/problem/1012">Link</a></td>
-    		<td></td>
-    		<td></td>
-    		<td></td>
-    		<td></td>
+    		<td><a href=""> </a></td>
+    		<td><a href=""> </a></td>
+    		<td><a href=""> </a></td>
+    		<td><a href=""> </a></td>
     	</tr>
     </tbody>
 </table>
