@@ -28,10 +28,10 @@
     		<td>1003</td>
     		<td>피보나치 함수</td>
     		<td><a href="https://www.acmicpc.net/problem/1003">Link</a></td>
-        <td><a href="#">✔️</a></td>
-        <td></td>
-        <td></td>
-        <td></td>
+            <td><a href="/BJ_1003.java">✔️</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
     	</tr>
     	<tr>
     		<td>1012</td>
