@@ -37,7 +37,7 @@
     		<td>1012</td>
     		<td>유기농 배추</td>
     		<td><a href="https://www.acmicpc.net/problem/1012">Link</a></td>
-    		<td><a href=""> </a></td>
+    		<td><a href="KJY97/BOJ_1012.java">✔️</a></td>
     		<td><a href="DONGSIIK/1012.java">✔️</a></td>
     		<td><a href=""> </a></td>
     		<td><a href=""> </a></td>
