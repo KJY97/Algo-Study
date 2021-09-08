@@ -36,10 +36,7 @@ class Main {
 		//출력
 		for(int i=0;i<T;i++) {
 			sb.append(fibo0[tc[i]]).append(' ').append(fibo1[tc[i]]).append('\n');
-		}
-		
-		System.out.print(sb.toString());
-		
+		}		
+		System.out.print(sb.toString());		
 	}
-
 }
