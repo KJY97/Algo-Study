@@ -46,7 +46,7 @@
     		<td>1697</td>
     		<td>숨바꼭질</td>
     		<td><a href="https://www.acmicpc.net/problem/1697">Link</a></td>
-    		<td><a href=""></a></td>
+    		<td><a href="KJY97/BOJ_1697.java"></a>✔️</td>
     		<td><a href="DONGSIIK/1697.java">✔️</a></td>
     		<td><a href=""></a></td>
     		<td><a href=""> </a></td>
