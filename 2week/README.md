@@ -28,7 +28,7 @@
     		<td>1463</td>
     		<td>1로 만들기</td>
     		<td><a href="https://www.acmicpc.net/problem/1463">Link</a></td>
-            <td><a href="KJY97/BOJ_1463.java">✔️</a></td>
+            <td><a href=""></a></td>
             <td><a href=""></a></td>
             <td><a href=""></a></td>
             <td><a href=""> </a></td>
@@ -37,7 +37,7 @@
     		<td>1620</td>
     		<td>나는야 포켓몬 마스터 이다솜</td>
     		<td><a href="https://www.acmicpc.net/problem/1620">Link</a></td>
-    		<td><a href=""></a></td>
+    		<td><a href="KJY97/BOJ_1620.java">✔️</a></td>
     		<td><a href=""></a></td>
     		<td><a href=""></a></td>
     		<td><a href=""> </a></td>
@@ -55,7 +55,7 @@
     		<td>1764</td>
     		<td>듣보잡</td>
     		<td><a href="https://www.acmicpc.net/problem/1764">Link</a></td>
-    		<td><a href=""></a></td>
+    		<td><a href="KJY97/BOJ_1764.java">✔️</a></td>
     		<td><a href=""></a></td>
     		<td><a href=""></a></td>
     		<td><a href=""> </a></td>
