@@ -29,7 +29,7 @@
     		<td>1로 만들기</td>
     		<td><a href="https://www.acmicpc.net/problem/1463">Link</a></td>
             <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td><a href="DONGSIIK/1463.java">✔️</a></td>
             <td><a href=""></a></td>
             <td><a href=""> </a></td>
     	</tr>
@@ -38,7 +38,7 @@
     		<td>나는야 포켓몬 마스터 이다솜</td>
     		<td><a href="https://www.acmicpc.net/problem/1620">Link</a></td>
     		<td><a href="KJY97/BOJ_1620.java">✔️</a></td>
-    		<td><a href=""> </a></td>
+    		<td><a href="DONGSIIK/1620.java">✔️</a></td>
     		<td><a href=""> </a></td>
     		<td><a href=""> </a></td>
     	</tr>
@@ -56,7 +56,7 @@
     		<td>듣보잡</td>
     		<td><a href="https://www.acmicpc.net/problem/1764">Link</a></td>
     		<td><a href="KJY97/BOJ_1764.java">✔️</a></td>
-    		<td><a href=""> </a></td>
+    		<td><a href="DONGSIIK/1764.java">✔️</a></td>
     		<td><a href=""> </a></td>
     		<td><a href=""> </a></td>
     	</tr>
@@ -65,7 +65,7 @@
     		<td>최소 힙</td>
     		<td><a href="https://www.acmicpc.net/problem/1927">Link</a></td>
     		<td><a href=""> </a></td>
-    		<td><a href=""> </a></td>
+    		<td><a href="DONGSIIK/1927.java">✔️</a></td>
     		<td><a href=""> </a></td>
     		<td><a href=""> </a></td>
     	</tr>
