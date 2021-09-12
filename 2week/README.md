@@ -64,7 +64,7 @@
     		<td>1927</td>
     		<td>최소 힙</td>
     		<td><a href="https://www.acmicpc.net/problem/1927">Link</a></td>
-    		<td><a href=""> </a></td>
+    		<td><a href="KJY97/BOJ_1927.java">✔️ </a></td>
     		<td><a href="DONGSIIK/1927.java">✔️</a></td>
     		<td><a href=""> </a></td>
     		<td><a href=""> </a></td>
