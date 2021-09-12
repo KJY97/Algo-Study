@@ -7,7 +7,7 @@ SSAFY 대전 6반. 알고리즘 & 취업 코딩테스트 대비 스터디
 ## :alarm_clock: 진행방식
 
 1. 매주 **수요일 18:00**에 온라인(디스코드)으로 진행
-2. **Solved.ac class 3+ 문제** 차례대로 5문제씩 풀어오기
+2. **[Solved.ac class 3+ 문제](https://solved.ac/search?query=in_class_essentials:3)** 차례대로 5문제씩 풀어오기
 3. 모든 스터디원이 자신의 **풀이방법을 리뷰**한다.
 
 :warning: 스터디 규칙은 변동 가능
