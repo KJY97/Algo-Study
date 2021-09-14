@@ -5,6 +5,7 @@
 ## :bookmark_tabs: 목차
 
 푼 문제 표시 ✔️ ❌
+링크 걸었는데 왜 제꺼 링크가 제대로 안들어가지죠... 스터디때 같이 알려주세요 KJY97님... -leeejuhyeong
 
 <table>
     <thead align="center">
