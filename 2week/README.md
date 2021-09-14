@@ -28,7 +28,7 @@
     		<td>1463</td>
     		<td>1로 만들기</td>
     		<td><a href="https://www.acmicpc.net/problem/1463">Link</a></td>
-            <td><a href=""></a></td>
+            <td><a href="KJY97/BOJ_1463.java">✔️</a></td>
             <td><a href="DONGSIIK/1463.java">✔️</a></td>
             <td><a href=""></a></td>
             <td><a href=""> </a></td>
