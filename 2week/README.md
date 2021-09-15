@@ -31,7 +31,7 @@
     		<td><a href="https://www.acmicpc.net/problem/1463">Link</a></td>
             <td><a href="KJY97/BOJ_1463.java">✔️</a></td>
             <td><a href="DONGSIIK/1463.java">✔️</a></td>
-            <td><a href="leeejuhyeong/algo_1463_이주형.java">✔️</a></td>
+            <td><a href="leeejuhyeong/algo_1463_이주형.java">✔️</a></td>
             <td><a href="yunwonjeong/1463.java">✔️</a></td>
     	</tr>
     	<tr>
