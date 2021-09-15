@@ -59,7 +59,7 @@
     		<td><a href="KJY97/BOJ_1764.java">✔️</a></td>
     		<td><a href="DONGSIIK/1764.java">✔️</a></td>
     		<td><a href="leeejuhyeong/algo_1764_이주형.java">✔️</a></td>
-    		<td><a href="yunwonjeong/1764.a">✔️</a></td>
+    		<td><a href="yunwonjeong/1764.java">✔️</a></td>
     	</tr>
       <tr>
     		<td>1927</td>
