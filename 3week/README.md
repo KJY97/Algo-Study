@@ -37,7 +37,7 @@
     		<td>2606</td>
     		<td>바이러스</td>
     		<td><a href="https://www.acmicpc.net/problem/2606">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/N2606.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -46,7 +46,7 @@
     		<td>2630</td>
     		<td>색종이 만들기</td>
     		<td><a href="https://www.acmicpc.net/problem/2630">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/N2630.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
