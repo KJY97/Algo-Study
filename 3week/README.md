@@ -29,7 +29,7 @@
     		<td>회의실 배정</td>
     		<td><a href="https://www.acmicpc.net/problem/1931">Link</a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="DONGSIIK/algo_1931.java">✔️ </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
     	</tr>
@@ -38,7 +38,7 @@
     		<td>바이러스</td>
     		<td><a href="https://www.acmicpc.net/problem/2606">Link</a></td>
     		<td><a href="KJY97/N2606.java">✔️ </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="DONGSIIK/algo_2606.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
@@ -47,7 +47,7 @@
     		<td>색종이 만들기</td>
     		<td><a href="https://www.acmicpc.net/problem/2630">Link</a></td>
     		<td><a href="KJY97/N2630.java">✔️ </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="DONGSIIK/algo_2630.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
     	</tr>
@@ -56,7 +56,7 @@
     		<td>토마토</td>
     		<td><a href="https://www.acmicpc.net/problem/7576">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="DONGSIIK/algo_7576.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
@@ -65,7 +65,7 @@
     		<td>이중 우선순위 큐</td>
     		<td><a href="https://www.acmicpc.net/problem/7662">Link</a></td>
     		<td><a href=" ">  </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="DONGSIIK/algo_7662.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
