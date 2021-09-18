@@ -1,3 +1,5 @@
+// https://girawhale.tistory.com/14
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
