@@ -55,7 +55,7 @@
     		<td>7576</td>
     		<td>토마토</td>
     		<td><a href="https://www.acmicpc.net/problem/7576">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/N7576.java">✔️ </a></td>
             <td><a href="DONGSIIK/algo_7576.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -64,7 +64,7 @@
     		<td>7662</td>
     		<td>이중 우선순위 큐</td>
     		<td><a href="https://www.acmicpc.net/problem/7662">Link</a></td>
-    		<td><a href=" ">  </a></td>
+    		<td><a href="KJY97/N7662.java">✔️ </a></td>
     		<td><a href="DONGSIIK/algo_7662.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
