@@ -28,7 +28,7 @@
     		<td>1931</td>
     		<td>회의실 배정</td>
     		<td><a href="https://www.acmicpc.net/problem/1931">Link</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="KJY97/N1931.java">✔️ </a></td>
             <td><a href="DONGSIIK/algo_1931.java">✔️ </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
