@@ -1,4 +1,5 @@
-package study;
+//실행시간: 544 ms
+//메모리: 121144 kb
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class N7576 {
+public class Main {
 
 	public static int[][] deltas = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 	public static int[][] board;
