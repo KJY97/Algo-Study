@@ -31,7 +31,7 @@
             <td><a href="KJY97/BOJ_9095.java">✔️</a></td>
             <td><a href="dongsiik/algo_9095.java">✔️ </a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href=" "> </a>✔️</td>
     	</tr>
     	<tr>
     		<td>11279</td>
@@ -40,7 +40,7 @@
     		<td><a href="KJY97/BOJ_11279.java">✔️ </a></td>
             <td><a href="dongsiik/algo_11279.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href=" "> </a>✔️</td>
     	</tr>
       <tr>
     		<td>11723</td>
@@ -49,7 +49,7 @@
     		<td><a href="KJY97/BOJ_11723.java ">✔️ </a></td>
             <td><a href="dongsiik/algo_11723.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=""> </a></td>
+    		<td><a href=""> </a>✔️</td>
     	</tr>
       <tr>
     		<td>11724</td>
@@ -67,7 +67,7 @@
     		<td><a href="KJY97/BOJ_11726.java ">✔️  </a></td>
             <td><a href="dongsiik/algo_11726.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href=" "> </a>✔️</td>
     	</tr>
         <tr>
     		<td>18870</td>
