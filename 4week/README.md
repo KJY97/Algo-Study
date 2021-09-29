@@ -73,7 +73,7 @@
     		<td>18870</td>
     		<td>좌표 압축</td>
     		<td><a href="https://www.acmicpc.net/problem/18870">Link</a></td>
-    		<td><a href=" ">  </a></td>
+    		<td><a href="KJY97/BOJ_18870.java">✔️ </a></td>
             <td><a href="dongsiik/algo_18870.java">✔️ </a></td>
     		<td><a href="leeejuhyeong/algo_18870_이주형.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
