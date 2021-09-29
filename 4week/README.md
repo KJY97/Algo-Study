@@ -30,7 +30,7 @@
     		<td><a href="https://www.acmicpc.net/problem/9095">Link</a></td>
             <td><a href="KJY97/BOJ_9095.java">✔️</a></td>
             <td><a href="dongsiik/algo_9095.java">✔️ </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="leeejuhyeong/algo_9095_이주형.java">✔️ </a></td>
             <td><a href=" "> </a>✔️</td>
     	</tr>
     	<tr>
@@ -39,7 +39,7 @@
     		<td><a href="https://www.acmicpc.net/problem/11279">Link</a></td>
     		<td><a href="KJY97/BOJ_11279.java">✔️ </a></td>
             <td><a href="dongsiik/algo_11279.java">✔️ </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_11279_이주형.java">✔️ </a></td>
     		<td><a href=" "> </a>✔️</td>
     	</tr>
       <tr>
@@ -48,7 +48,7 @@
     		<td><a href="https://www.acmicpc.net/problem/11723">Link</a></td>
     		<td><a href="KJY97/BOJ_11723.java ">✔️ </a></td>
             <td><a href="dongsiik/algo_11723.java">✔️ </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_11723_이주형.java">✔️ </a></td>
     		<td><a href=""> </a>✔️</td>
     	</tr>
       <tr>
@@ -57,7 +57,7 @@
     		<td><a href="https://www.acmicpc.net/problem/11724">Link</a></td>
     		<td><a href="KJY97/BOJ_11724.java ">✔️ </a></td>
             <td><a href="dongsiik/algo_11724.java">✔️ </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_11724_이주형.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
       <tr>
@@ -66,7 +66,7 @@
     		<td><a href="https://www.acmicpc.net/problem/11726">Link</a></td>
     		<td><a href="KJY97/BOJ_11726.java ">✔️  </a></td>
             <td><a href="dongsiik/algo_11726.java">✔️ </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_11726_이주형.java">✔️ </a></td>
     		<td><a href=" "> </a>✔️</td>
     	</tr>
         <tr>
@@ -75,7 +75,7 @@
     		<td><a href="https://www.acmicpc.net/problem/18870">Link</a></td>
     		<td><a href=" ">  </a></td>
             <td><a href="dongsiik/algo_18870.java">✔️ </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_18870_이주형.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
     </tbody>
