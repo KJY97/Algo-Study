@@ -1,4 +1,4 @@
-//14292, 128
+//14364, 128
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -19,16 +19,23 @@ public class algo_11726 {
 		System.out.println(getFibo(n+1));
 	}
 
-	static void matrixMultiply(long[][] A, long[][] B) {
-		// 행렬 새로 만들기 싫어서 왼쪽 행렬에 덮어 씌웠습니다.
-		long a00 = A[0][0] * B[0][0] + A[0][1] * B[1][0];
-		long a01 = A[0][0] * B[0][1] + A[0][1] * B[1][1];
-		long a10 = A[1][0] * B[0][0] + A[1][1] * B[1][0];
-		long a11 = A[1][0] * B[0][1] + A[1][1] * B[1][1];
-		A[0][0] = a00 % divisor;
-		A[0][1] = a01 % divisor;
-		A[1][0] = a10 % divisor;
-		A[1][1] = a11 % divisor;
+	static long[][] matrixMultiply(long[][] A, long[][] B) {
+		int n = A.length;
+		int m = B.length;
+		int l = B[0].length;
+		
+		long[][] res = new long[n][l];
+		
+		for(int i=0;i<n;i++) {
+			for(int k=0;k<l;k++) {
+				for(int j=0;j<m;j++) {
+					res[i][k] = (res[i][k] + (A[i][j]*B[j][k])%divisor)%divisor;
+				}
+			}
+		}
+		
+		return res;
+
 	}
 
 	static long getFibo(long n) {
@@ -39,10 +46,10 @@ public class algo_11726 {
 		// 분할 정복을 이용한 거듭제곱
 		while (n > 0) {
 			if (n % 2 == 0) {
-				matrixMultiply(A, A);
+				A = matrixMultiply(A, A);
 				n /= 2;
 			} else {
-				matrixMultiply(resMatrix, A);
+				resMatrix = matrixMultiply(resMatrix, A);
 				n--;
 			}
 		}
