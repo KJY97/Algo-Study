@@ -48,7 +48,7 @@
     		<td><a href="https://www.acmicpc.net/problem/1865">Link</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href="https://github.com/KJY97/Algo-Study/blob/main/5week/dongsiik/algo_1865_%EB%B0%95%EB%8F%99%EC%8B%9D.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href=" "> </a>포기</td>
     		<td><a href=""> </a></td>
     	</tr>
       <tr>
