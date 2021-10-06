@@ -25,9 +25,9 @@
     <tbody  align="center">
     	<tr>
     		<td rowspan="5">BOJ</td>
-    		<td>1987</td>
+    		<td>1967</td>
     		<td>트리의 지름</td>
-    		<td><a href="https://www.acmicpc.net/problem/1987">Link</a></td>
+    		<td><a href="https://www.acmicpc.net/problem/1967">Link</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
