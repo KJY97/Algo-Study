@@ -30,7 +30,7 @@
     		<td><a href="https://www.acmicpc.net/problem/1167">Link</a></td>
             <td><a href=" "> </a></td>
             <td><a href="https://github.com/KJY97/Algo-Study/blob/main/5week/dongsiik/algo_1167_%EB%B0%95%EB%8F%99%EC%8B%9D_dfs.java">✔️</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="leeejuhyeong/algo_1167_이주형.java">✔️</a></td>
             <td><a href=" "> </a></td>
     	</tr>
     	<tr>
@@ -39,7 +39,7 @@
     		<td><a href="https://www.acmicpc.net/problem/1629">Link</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href="https://github.com/KJY97/Algo-Study/blob/main/5week/dongsiik/algo_1629_%EB%B0%95%EB%8F%99%EC%8B%9D.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_1629_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     	</tr>
       <tr>
@@ -57,7 +57,7 @@
     		<td><a href="https://www.acmicpc.net/problem/1918">Link</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href="https://github.com/KJY97/Algo-Study/blob/main/5week/dongsiik/algo_1918_%EB%B0%95%EB%8F%99%EC%8B%9D.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_1918_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     	</tr>
       <tr>
@@ -66,7 +66,7 @@
     		<td><a href="https://www.acmicpc.net/problem/1932">Link</a></td>
     		<td><a href=" ">  </a></td>
     		<td><a href="https://github.com/KJY97/Algo-Study/blob/main/5week/dongsiik/algo_1932_%EB%B0%95%EB%8F%99%EC%8B%9D.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_1932_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     	</tr>
     </tbody>
