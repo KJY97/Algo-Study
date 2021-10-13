@@ -30,7 +30,7 @@
     		<td><a href="https://www.acmicpc.net/problem/1967">Link</a></td>
             <td><a href=" "> </a></td>
             <td><a href="dongsiik/algo_1967_박동식.java">✔️</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="leeejuhyeong/algo_1967_이주형.java">✔️</a></td>
             <td><a href=" "> </a></td>
     	</tr>
     	<tr>
@@ -39,7 +39,7 @@
     		<td><a href="https://www.acmicpc.net/problem/1991">Link</a></td>
     		<td><a href=" "> </a></td>
             <td><a href="dongsiik/algo_1991_박동식.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_1991_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     	</tr>
       <tr>
@@ -48,7 +48,7 @@
     		<td><a href="https://www.acmicpc.net/problem/2263">Link</a></td>
     		<td><a href=" "> </a></td>
             <td><a href="dongsiik/algo_2263_박동식.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_2263_이주형.java">✔️</a></td>
     		<td><a href=""> </a></td>
     	</tr>
       <tr>
@@ -57,7 +57,7 @@
     		<td><a href="https://www.acmicpc.net/problem/2407">Link</a></td>
     		<td><a href=" "> </a></td>
             <td><a href="dongsiik/algo_2407_박동식.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_2407_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     	</tr>
       <tr>
@@ -66,7 +66,7 @@
     		<td><a href="https://www.acmicpc.net/problem/9251">Link</a></td>
     		<td><a href=" ">  </a></td>
             <td><a href="dongsiik/algo_9251_박동식.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_9251_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     	</tr>
     </tbody>
