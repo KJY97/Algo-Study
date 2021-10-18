@@ -38,7 +38,7 @@
     		<td>N-Queen</td>
     		<td><a href="https://www.acmicpc.net/problem/9663">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="dongsik/9663.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
