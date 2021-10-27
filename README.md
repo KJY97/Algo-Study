@@ -10,6 +10,7 @@ SSAFY 대전 6반. 알고리즘 & 취업 코딩테스트 대비 스터디
 2. Solved.ac class 에센셜 문제를 차례대로 5문제씩 풀어오기
      - **[Solved.ac class 3+ 문제](https://solved.ac/search?query=in_class_essentials:3)**
      - **[Solved.ac class 4+ 문제](https://solved.ac/search?query=in_class_essentials:4)**
+     - **[Solved.ac class 3++ 문제](https://solved.ac/search?query=in_class:3)**
 3. 모든 스터디원이 자신의 **풀이방법을 리뷰**한다.
 
 :warning: 스터디 규칙은 변동 가능
