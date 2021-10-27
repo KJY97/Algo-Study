@@ -1,6 +1,6 @@
 # 8week
 
-**2021.10.27 18:00 ~ 19:00**
+**2021.10.27 20:00 ~ 21:00**
 
 :loudspeaker: **졸업자** : Dongsik Park :tada::tada::tada::tada:
 
