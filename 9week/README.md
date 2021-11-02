@@ -31,7 +31,7 @@
     		<td>리모컨</td>
     		<td><a href="https://www.acmicpc.net/problem/1107">Link</a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="dongsik/BOJ_1107.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
     	</tr>
@@ -40,7 +40,7 @@
     		<td>케빈 베이컨의 6단계 법칙</td>
     		<td><a href="https://www.acmicpc.net/problem/1389">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsik/BOJ_1389.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
@@ -49,7 +49,7 @@
     		<td>잃어버린 괄호</td>
     		<td><a href="https://www.acmicpc.net/problem/1541">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsik/BOJ_1541.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
     	</tr>
@@ -58,7 +58,7 @@
     		<td>팩토리얼 0의 개수</td>
     		<td><a href="https://www.acmicpc.net/problem/1676">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsik/BOJ_1676.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
@@ -67,7 +67,7 @@
     		<td>종이의 개수</td>
     		<td><a href="https://www.acmicpc.net/problem/1780">Link</a></td>
     		<td><a href=" ">  </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsik/BOJ_1780.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
