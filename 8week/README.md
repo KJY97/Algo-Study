@@ -30,7 +30,7 @@
     		<td>11660</td>
     		<td>구간 합 구하기 5</td>
     		<td><a href="https://www.acmicpc.net/problem/11660">Link</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="KJY97/BOJ_11660.java">✔️ </a></td>
             <td><a href=" "> </a></td>
             <td><a href="leeejuhyeong/algo_11660_이주형.java">✔️</a></td>
             <td><a href=" "> </a></td>
@@ -39,7 +39,7 @@
     		<td>11725</td>
     		<td>트리의 부모 찾기</td>
     		<td><a href="https://www.acmicpc.net/problem/11725">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href=" ">❌ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href="leeejuhyeong/algo_11725_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
@@ -48,7 +48,7 @@
     		<td>12865</td>
     		<td>평범한 배낭</td>
     		<td><a href="https://www.acmicpc.net/problem/12865">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_12865.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href="leeejuhyeong/algo_12865_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
@@ -57,7 +57,7 @@
     		<td>13549</td>
     		<td>숨바꼭질 3</td>
     		<td><a href="https://www.acmicpc.net/problem/13549">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href=" ">❌ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href="leeejuhyeong/algo_13549_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
@@ -66,7 +66,7 @@
     		<td>15650</td>
     		<td>N과 M (2)</td>
     		<td><a href="https://www.acmicpc.net/problem/15650">Link</a></td>
-    		<td><a href=" ">  </a></td>
+    		<td><a href="KJY97/BOJ_15650.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href="leeejuhyeong/algo_15650_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
@@ -75,7 +75,7 @@
     		<td>15654</td>
     		<td>N과 M (5)</td>
     		<td><a href="https://www.acmicpc.net/problem/15654">Link</a></td>
-    		<td><a href=" ">  </a></td>
+    		<td><a href="KJY97/BOJ_15654.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
