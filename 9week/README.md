@@ -1,6 +1,8 @@
 # 9week
 
-**2021.11.04 20:00 ~ 21:00**
+**2021.11.05 18:00 ~ 19:00**
+
+:warning:일정 변경사유 : ssafy 프로젝트와 일정이 겹쳐서 변경함
 
 :loudspeaker: **졸업자** : Dongsik Park :tada::tada::tada::tada:
 
