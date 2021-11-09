@@ -1,6 +1,8 @@
 # 10week
 
-**2021.11.10 18:00 ~ 19:00**
+**2021.11.12 18:00 ~ 19:00**
+
+:warning:일정 변경사유 : 보충수업 일정과 겹쳐서 변경함
 
 :loudspeaker: **졸업자** : Dongsik Park :tada::tada::tada::tada:
 
