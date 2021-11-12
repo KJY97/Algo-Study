@@ -21,7 +21,7 @@
         </tr>
          <tr>
             <td>KJY97</td>
-            <td><b>명예멤버</b><br> Dongsik Park</td>
+            <td><b>망령</b><br> Dongsik Park</td>
             <td>leeejuhyeong</td>
             <td>yunwonjeong</td>
         </tr>
