@@ -33,7 +33,7 @@
     		<td>미로 탐색</td>
     		<td><a href="https://www.acmicpc.net/problem/2178">Link</a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_2178.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
     	</tr>
@@ -42,7 +42,7 @@
     		<td>계단 오르기</td>
     		<td><a href="https://www.acmicpc.net/problem/2579">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_2579.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
@@ -51,7 +51,7 @@
     		<td>AC</td>
     		<td><a href="https://www.acmicpc.net/problem/5430">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_5430.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
     	</tr>
@@ -60,7 +60,7 @@
     		<td>IOIOI</td>
     		<td><a href="https://www.acmicpc.net/problem/5525">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_5525.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
