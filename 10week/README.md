@@ -32,7 +32,7 @@
     		<td>2178</td>
     		<td>미로 탐색</td>
     		<td><a href="https://www.acmicpc.net/problem/2178">Link</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="KJY97/BOJ_2178.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_2178.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -41,7 +41,7 @@
     		<td>2579</td>
     		<td>계단 오르기</td>
     		<td><a href="https://www.acmicpc.net/problem/2579">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_2579.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_2579.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -68,7 +68,7 @@
     		<td>6064</td>
     		<td>카잉 달력</td>
     		<td><a href="https://www.acmicpc.net/problem/6064">Link</a></td>
-    		<td><a href=" ">  </a></td>
+    		<td><a href="KJY97/BOJ_6064.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
