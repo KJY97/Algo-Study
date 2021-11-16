@@ -1,6 +1,8 @@
 # 12week
 
-**2021.??.?? ??:00 ~ ??:00**
+**2021.12?.01 ??:00 ~ ??:00**
+
+:warning:일정 변경사유 : 관통 프로젝트
 
 :loudspeaker: **졸업자** : Dongsik Park :tada::tada::tada::tada:
 
