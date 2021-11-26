@@ -4,7 +4,7 @@
 
 :warning:일정 변경사유 : 관통 프로젝트
 
-:loudspeaker: **졸업자** : Dongsik Park :tada::tada::tada::tada:
+:ghost: **망령** : Dongsik Park 
 
 ## :bookmark_tabs: 목차
 
@@ -21,7 +21,7 @@
         </tr>
          <tr>
             <td>KJY97</td>
-            <td><b>명예멤버</b><br> Dongsik Park</td>
+            <td>Dongsik Park</td>
             <td>leeejuhyeong</td>
             <td>yunwonjeong</td>
         </tr>
@@ -33,7 +33,7 @@
     		<td>경로 찾기</td>
     		<td><a href="https://www.acmicpc.net/problem/11403">Link</a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_11403.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
     	</tr>
@@ -42,7 +42,7 @@
     		<td>구간 합 구하기4</td>
     		<td><a href="https://www.acmicpc.net/problem/11659">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_11659.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
@@ -51,7 +51,7 @@
     		<td>2xN 타일링 2</td>
     		<td><a href="https://www.acmicpc.net/problem/11727">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_11727.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
     	</tr>
@@ -60,7 +60,7 @@
     		<td>테트로미노</td>
     		<td><a href="https://www.acmicpc.net/problem/14500">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_14500.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
@@ -69,7 +69,7 @@
     		<td>아기 상어</td>
     		<td><a href="https://www.acmicpc.net/problem/16236">Link</a></td>
     		<td><a href=" ">  </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_16236.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     	</tr>
