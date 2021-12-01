@@ -17,7 +17,7 @@
             <th rowspan ="2">번호</th>
             <th rowspan ="2">제목</th>
             <th rowspan ="2">문제링크</th>
-            <th colspan ="4">바로가기</th>
+            <th colspan ="5">바로가기</th>
         </tr>
          <tr>
             <td>KJY97</td>
