@@ -17,9 +17,9 @@ SSAFY 대전 6반. 알고리즘 & 취업 코딩테스트 대비 스터디
 
 ## :pushpin:스터디 멤버
 
-|  KJY97  | Dongsik Park | leeejuhyeong | yunwonjeong |
-| :----: | :----: | :----: | :----: |
-| [![KJY97](https://avatars.githubusercontent.com/u/47266337?v=4)](https://github.com/KJY97) | [![Dongsik Park](https://avatars.githubusercontent.com/u/84314231?v=4)](https://github.com/dongsiik) | [![leeejuhyeong](https://avatars.githubusercontent.com/u/83570399?v=4)](https://github.com/leeejuhyeong) | [![yunwonjeong](https://avatars.githubusercontent.com/u/90126101?v=4)](https://github.com/yunwonjeong) |
+|  KJY97  | Dongsik Park | leeejuhyeong | yunwonjeong | ChaerinYu |
+| :----: | :----: | :----: | :----: | :----: |
+| [![KJY97](https://avatars.githubusercontent.com/u/47266337?v=4)](https://github.com/KJY97) | [![Dongsik Park](https://avatars.githubusercontent.com/u/84314231?v=4)](https://github.com/dongsiik) | [![leeejuhyeong](https://avatars.githubusercontent.com/u/83570399?v=4)](https://github.com/leeejuhyeong) | [![yunwonjeong](https://avatars.githubusercontent.com/u/90126101?v=4)](https://github.com/yunwonjeong) | [![ChaerinYu](https://avatars.githubusercontent.com/u/17977857?v=4)](https://github.com/ChaerinYu) |
 
 ## :bookmark:목차
 
