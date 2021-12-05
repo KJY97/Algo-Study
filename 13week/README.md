@@ -35,7 +35,7 @@
             <td><a href="dongsiik/BOJ_1043.java">✔️ </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_1043.java">✔️ </a></td>
     	</tr>
     	<tr>
     		<td>1238</td>
@@ -55,7 +55,7 @@
             <td><a href="dongsiik/BOJ_16928.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_16982.java">✔️ </a></td>
     	</tr>
       <tr>
     		<td>17219</td>
@@ -65,7 +65,7 @@
             <td><a href="dongsiik/BOJ_17219.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_17219_2.java">✔️ </a></td>
     	</tr>
       <tr>
     		<td>17626</td>
@@ -75,7 +75,7 @@
             <td><a href="dongsiik/BOJ_17626.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_17626_2.java">✔️ </a></td>
     	</tr>
     </tbody>
 </table>
