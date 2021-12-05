@@ -32,7 +32,7 @@
     		<td>거짓말</td>
     		<td><a href="https://www.acmicpc.net/problem/1043">Link</a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_1043.java">✔️ </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -42,7 +42,7 @@
     		<td>파티</td>
     		<td><a href="https://www.acmicpc.net/problem/1238">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_1238.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -52,7 +52,7 @@
     		<td>뱀과 사다리 게임</td>
     		<td><a href="https://www.acmicpc.net/problem/16928">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_16928.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
     		<td><a href=" "> </a></td>
@@ -62,7 +62,7 @@
     		<td>비밀번호 찾기</td>
     		<td><a href="https://www.acmicpc.net/problem/17219">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_17219.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -72,7 +72,7 @@
     		<td>Four Squares</td>
     		<td><a href="https://www.acmicpc.net/problem/17626">Link</a></td>
     		<td><a href=" ">  </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_17626.java">✔️ </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
