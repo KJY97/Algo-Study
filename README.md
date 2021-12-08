@@ -11,6 +11,7 @@ SSAFY 대전 6반. 알고리즘 & 취업 코딩테스트 대비 스터디
      - **[Solved.ac class 3+ 문제](https://solved.ac/search?query=in_class_essentials:3)**
      - **[Solved.ac class 4+ 문제](https://solved.ac/search?query=in_class_essentials:4)**
      - **[Solved.ac class 3++ 문제](https://solved.ac/search?query=in_class:3)**
+     - **[Solved.ac class 4++ 문제](https://solved.ac/search?query=in_class:4)**
 3. 모든 스터디원이 자신의 **풀이방법을 리뷰**한다.
 
 :warning: 스터디 규칙은 변동 가능
@@ -86,6 +87,11 @@ SSAFY 대전 6반. 알고리즘 & 취업 코딩테스트 대비 스터디
         <tr>
             <td>13week</td>
             <td><a href="https://github.com/KJY97/Algo-Study/tree/main/13week">바로가기</a></td>
+        </tr>
+         <tr>
+            <td rowspan="4">class 4++</td>
+            <td>14week</td>
+            <td><a href="https://github.com/KJY97/Algo-Study/tree/main/14week">바로가기</a></td>
         </tr>
     </tbody>
 </table>
