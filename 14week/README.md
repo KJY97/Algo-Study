@@ -45,7 +45,7 @@
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
-            <td><a href="chaerin/BOJ_1919.java">✔️ </a></td>
+            <td><a href="chaerin/BOJ_1916.java">✔️ </a></td>
     	</tr>
       <tr>
     		<td>2096</td>
