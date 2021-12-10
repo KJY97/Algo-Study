@@ -35,7 +35,7 @@
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_1504.java">✔️ </a></td>
     	</tr>
     	<tr>
     		<td>1916</td>
@@ -45,7 +45,7 @@
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_1919.java">✔️ </a></td>
     	</tr>
       <tr>
     		<td>2096</td>
@@ -55,7 +55,7 @@
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
-          	<td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_2096.java">✔️ </a></td>
     	</tr>
       <tr>
     		<td>2448</td>
