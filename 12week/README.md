@@ -33,7 +33,7 @@
     		<td>11403</td>
     		<td>경로 찾기</td>
     		<td><a href="https://www.acmicpc.net/problem/11403">Link</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="KJY97/BOJ_11403.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_11403.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -43,7 +43,7 @@
     		<td>11659</td>
     		<td>구간 합 구하기4</td>
     		<td><a href="https://www.acmicpc.net/problem/11659">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_11659.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_11659.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -53,7 +53,7 @@
     		<td>11727</td>
     		<td>2xN 타일링 2</td>
     		<td><a href="https://www.acmicpc.net/problem/11727">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_11727.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_11727.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
@@ -81,4 +81,3 @@
     	</tr>
     </tbody>
 </table>
-

@@ -31,7 +31,7 @@
     		<td>1504</td>
     		<td>특정한 최단 경로</td>
     		<td><a href="https://www.acmicpc.net/problem/1504">Link</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="KJY97/BOJ_1504.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -41,7 +41,7 @@
     		<td>1916</td>
     		<td>최소비용 구하기</td>
     		<td><a href="https://www.acmicpc.net/problem/1916">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_1916.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -51,7 +51,7 @@
     		<td>2096</td>
     		<td>내려가기</td>
     		<td><a href="https://www.acmicpc.net/problem/2096">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_2096.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
@@ -71,7 +71,7 @@
     		<td>2638</td>
     		<td>치즈</td>
     		<td><a href="https://www.acmicpc.net/problem/2638">Link</a></td>
-    		<td><a href=" ">  </a></td>
+    		<td><a href="KJY97/BOJ_2638.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>

@@ -33,7 +33,7 @@
     		<td>9019</td>
     		<td>DSLR</td>
     		<td><a href="https://www.acmicpc.net/problem/9019">Link</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href=" ">✔️</a></td>
             <td><a href="dongsiik/BOJ_9019.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -43,7 +43,7 @@
     		<td>9375</td>
     		<td>패션왕 신해빈</td>
     		<td><a href="https://www.acmicpc.net/problem/9375">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_9375.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_9375.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -53,7 +53,7 @@
     		<td>9461</td>
     		<td>파도반 수열</td>
     		<td><a href="https://www.acmicpc.net/problem/9461">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_9461.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_9461.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
@@ -63,7 +63,7 @@
     		<td>11047</td>
     		<td>동전 0</td>
     		<td><a href="https://www.acmicpc.net/problem/11047">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_11047.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_11047.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -73,7 +73,7 @@
     		<td>11286</td>
     		<td>절댓값 힙</td>
     		<td><a href="https://www.acmicpc.net/problem/11286">Link</a></td>
-    		<td><a href=" ">  </a></td>
+    		<td><a href="KJY97/BOJ_11286.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_11286.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
