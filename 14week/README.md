@@ -54,7 +54,7 @@
     		<td><a href="KJY97/BOJ_2096.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=""> </a></td>
+    		<td><a href="yunwonjeong/BOJ_2096.java"> ✔️</a></td>
             <td><a href="chaerin/BOJ_2096.java">✔️ </a></td>
     	</tr>
       <tr>
