@@ -75,7 +75,7 @@
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
-          	<td><a href=" "> </a></td>
+          	<td><a href="chaerin/BOJ_2638.java">✔️</a></td>
     	</tr>
     </tbody>
 </table>
