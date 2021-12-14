@@ -62,7 +62,7 @@
     		<td>별 찍기 - 11</td>
     		<td><a href="https://www.acmicpc.net/problem/2448">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="dongsiik/BOJ_2448.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
           	<td><a href=" "> </a></td>
