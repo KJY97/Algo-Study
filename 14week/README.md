@@ -33,7 +33,7 @@
     		<td><a href="https://www.acmicpc.net/problem/1504">Link</a></td>
             <td><a href="KJY97/BOJ_1504.java">✔️</a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="leeejuhyeong/algo_1504_이주형.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href="chaerin/BOJ_1504.java">✔️ </a></td>
     	</tr>
@@ -43,7 +43,7 @@
     		<td><a href="https://www.acmicpc.net/problem/1916">Link</a></td>
     		<td><a href="KJY97/BOJ_1916.java">✔️</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_1916_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
             <td><a href="chaerin/BOJ_1916.java">✔️ </a></td>
     	</tr>
@@ -53,7 +53,7 @@
     		<td><a href="https://www.acmicpc.net/problem/2096">Link</a></td>
     		<td><a href="KJY97/BOJ_2096.java">✔️</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_2096_이주형.java">✔️</a></td>
     		<td><a href="yunwonjeong/BOJ_2096.java"> ✔️</a></td>
             <td><a href="chaerin/BOJ_2096.java">✔️ </a></td>
     	</tr>
@@ -73,7 +73,7 @@
     		<td><a href="https://www.acmicpc.net/problem/2638">Link</a></td>
     		<td><a href="KJY97/BOJ_2638.java">✔️</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_2638_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
           	<td><a href="chaerin/BOJ_2638.java">✔️</a></td>
     	</tr>
