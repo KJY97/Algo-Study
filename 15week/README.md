@@ -32,7 +32,7 @@
     		<td>이진검색트리</td>
     		<td><a href="https://www.acmicpc.net/problem/5639">Link</a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_5639.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -42,7 +42,7 @@
     		<td>문자열 폭발</td>
     		<td><a href="https://www.acmicpc.net/problem/9935">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_9935.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -62,7 +62,7 @@
     		<td>가장 긴 바이토닉 부분 수열</td>
     		<td><a href="https://www.acmicpc.net/problem/11054">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_11054.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
           	<td><a href=" "> </a></td>
@@ -72,7 +72,7 @@
     		<td>최소비용 구하기 2</td>
     		<td><a href="https://www.acmicpc.net/problem/11779">Link</a></td>
     		<td><a href=" ">  </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_11779.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
           	<td><a href=" "> </a></td>
