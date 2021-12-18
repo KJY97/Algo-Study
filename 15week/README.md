@@ -52,7 +52,7 @@
     		<td>행렬 제곱</td>
     		<td><a href="https://www.acmicpc.net/problem/10830">Link</a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_10830.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
           	<td><a href=" "> </a></td>
