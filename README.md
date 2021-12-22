@@ -97,6 +97,10 @@ SSAFY 대전 6반. 알고리즘 & 취업 코딩테스트 대비 스터디
             <td>15week</td>
             <td><a href="https://github.com/KJY97/Algo-Study/tree/main/15week">바로가기</a></td>
         </tr>
+        <tr>
+            <td>16week</td>
+            <td><a href="https://github.com/KJY97/Algo-Study/tree/main/16week">바로가기</a></td>
+        </tr>
     </tbody>
 </table>
 
