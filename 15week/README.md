@@ -31,7 +31,7 @@
     		<td>5639</td>
     		<td>이진검색트리</td>
     		<td><a href="https://www.acmicpc.net/problem/5639">Link</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="KJY97/BOJ_5639.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_5639.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -41,7 +41,7 @@
     		<td>9935</td>
     		<td>문자열 폭발</td>
     		<td><a href="https://www.acmicpc.net/problem/9935">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_9935.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_9935.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -51,7 +51,7 @@
     		<td>10830</td>
     		<td>행렬 제곱</td>
     		<td><a href="https://www.acmicpc.net/problem/10830">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_10830.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_10830.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
@@ -61,7 +61,7 @@
     		<td>11054</td>
     		<td>가장 긴 바이토닉 부분 수열</td>
     		<td><a href="https://www.acmicpc.net/problem/11054">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_11054.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_11054.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -71,7 +71,7 @@
     		<td>11779</td>
     		<td>최소비용 구하기 2</td>
     		<td><a href="https://www.acmicpc.net/problem/11779">Link</a></td>
-    		<td><a href=" ">  </a></td>
+    		<td><a href="KJY97/BOJ_11779.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_11779.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -79,4 +79,3 @@
     	</tr>
     </tbody>
 </table>
-
