@@ -33,7 +33,7 @@
     		<td><a href="https://www.acmicpc.net/problem/5639">Link</a></td>
             <td><a href="KJY97/BOJ_5639.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_5639.java">✔️</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="leeejuhyeong/algo_5639_이주형.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
     	</tr>
@@ -43,7 +43,7 @@
     		<td><a href="https://www.acmicpc.net/problem/9935">Link</a></td>
     		<td><a href="KJY97/BOJ_9935.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_9935.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_9935_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
             <td><a href="chaerin/BOJ_9935.java">✔️</a></td>
     	</tr>
@@ -53,7 +53,7 @@
     		<td><a href="https://www.acmicpc.net/problem/10830">Link</a></td>
     		<td><a href="KJY97/BOJ_10830.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_10830.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_10830_이주형.java">✔️</a></td>
     		<td><a href=""> </a></td>
             <td><a href="chaerin/BOJ_10830.java">✔️</a></td>
     	</tr>
@@ -63,7 +63,7 @@
     		<td><a href="https://www.acmicpc.net/problem/11054">Link</a></td>
     		<td><a href="KJY97/BOJ_11054.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_11054.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_11054_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
             <td><a href="chaerin/BOJ_11054.java">✔️</a></td>
     	</tr>
@@ -73,7 +73,7 @@
     		<td><a href="https://www.acmicpc.net/problem/11779">Link</a></td>
     		<td><a href="KJY97/BOJ_11779.java">✔️</a></td>
             <td><a href="dongsiik/BOJ_11779.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="leeejuhyeong/algo_11779_이주형.java">✔️</a></td>
     		<td><a href=" "> </a></td>
             <td><a href="chaerin/BOJ_11779.java">✔️</a></td>
     	</tr>

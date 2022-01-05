@@ -32,7 +32,7 @@
     		<td>Σ</td>
     		<td><a href="https://www.acmicpc.net/problem/13172">Link</a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_13172.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -42,7 +42,7 @@
     		<td>서강그라운드</td>
     		<td><a href="https://www.acmicpc.net/problem/14938">Link</a></td>
     		<td><a href="KJY97/BOJ_14938.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_14938.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -52,7 +52,7 @@
     		<td>N과 M (4)</td>
     		<td><a href="https://www.acmicpc.net/problem/15652">Link</a></td>
     		<td><a href="KJY97/BOJ_15652.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_15652.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
           	<td><a href=" "> </a></td>
@@ -62,7 +62,7 @@
     		<td>N과 M (8)</td>
     		<td><a href="https://www.acmicpc.net/problem/15657">Link</a></td>
     		<td><a href="KJY97/BOJ_15657.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_15657.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
           	<td><a href=" "> </a></td>
@@ -72,7 +72,7 @@
     		<td>N과 M (9)</td>
     		<td><a href="https://www.acmicpc.net/problem/15663">Link</a></td>
     		<td><a href="KJY97/BOJ_15663.java">✔️</a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="dongsiik/BOJ_15663.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
           	<td><a href=" "> </a></td>
