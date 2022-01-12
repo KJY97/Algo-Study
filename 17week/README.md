@@ -1,8 +1,10 @@
 # 17week
 
-**2022.01.12 18:00 ~ 19:00**
+**~~2022.01.12 18:00 ~ 19:00~~**
 
 :loudspeaker: **졸업자** : Dongsik Park 🎉🎉🎉🎉
+
+:loudspeaker: **공통프로젝트 회의로 인해 취소​**
 
 ## :bookmark_tabs: 목차
 
@@ -30,7 +32,7 @@
     		<td>15666</td>
     		<td>N과 M (12)</td>
     		<td><a href="https://www.acmicpc.net/problem/15666">Link</a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="KJY97/BOJ_15666.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
@@ -39,7 +41,7 @@
     		<td>16953</td>
     		<td>A → B</td>
     		<td><a href="https://www.acmicpc.net/problem/16953">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_16953.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
@@ -48,7 +50,7 @@
     		<td>17070</td>
     		<td>파이프 옮기기 1</td>
     		<td><a href="https://www.acmicpc.net/problem/17070">Link</a></td>
-    		<td><a href=" "> </a></td>
+    		<td><a href="KJY97/BOJ_17070.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=""> </a></td>
@@ -66,7 +68,7 @@
     		<td>1080</td>
     		<td>행렬</td>
     		<td><a href="https://www.acmicpc.net/problem/1080">Link</a></td>
-    		<td><a href=" ">  </a></td>
+    		<td><a href="KJY97/BOJ_1080.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
