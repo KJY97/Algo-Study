@@ -35,7 +35,7 @@
             <td><a href="KJY97/BOJ_15666.java">✔️</a></td>
             <td><a href=" "> </a></td>
             <td><a href=" "> </a></td>
-            <td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_15666.java">✔️</a></td>
     	</tr>
     	<tr>
     		<td>16953</td>
@@ -44,7 +44,7 @@
     		<td><a href="KJY97/BOJ_16953.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_16953.java">✔️</a></td>
     	</tr>
       <tr>
     		<td>17070</td>
@@ -53,7 +53,7 @@
     		<td><a href="KJY97/BOJ_17070.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=""> </a></td>
+            <td><a href="chaerin/BOJ_17070.java">✔️</a></td>
     	</tr>
       <tr>
     		<td>1052</td>
@@ -62,7 +62,7 @@
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_1052.java">✔️</a></td>
     	</tr>
       <tr>
     		<td>1080</td>
@@ -71,7 +71,7 @@
     		<td><a href="KJY97/BOJ_1080.java">✔️</a></td>
     		<td><a href=" "> </a></td>
     		<td><a href=" "> </a></td>
-    		<td><a href=" "> </a></td>
+            <td><a href="chaerin/BOJ_1080.java">✔️</a></td>
     	</tr>
     </tbody>
 </table>
